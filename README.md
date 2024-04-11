@@ -9,8 +9,8 @@ A partir de la tabla confirmed_cases que se compone de diferentes paises y sus c
 La tabla contiene información innecesaria como la latitud, longitud y localización geométrica por lo que se busca eliminar estas columnas para poder ver la gráfica de casos en el tiempo.
 Luego de consultarlo con el profesor, se traspuso la tabla y se eliminaron los datos innecesarios.
 Se decide cambiar la tabla de datos pues esta era mas dificil de manipular y requeria de mayores capacidades.
-Los nuevos datos son de "bigquery-public-data.covid19_open_data.covid19_open_data"
-Con esta nueva tabla se pudo realizar todo de mejor forma hasta el momento de grafica
+Los nuevos datos son de "bigquery-public-data.covid19_open_data.covid19_open_data".
+Con esta nueva tabla se pudo realizar todo de mejor forma hasta el momento de grafica.
 Al observar la tabla se muestra un peak de casos entre enero del 2022 y mayo de 2022, el cuál fué de casi 40000 casos.
 Con el peak encontrado se busca información acerca de los casos de el año 2022 y se puede observar concoradancia.
 Luego de trabajar con los casos confirmados se procede a estudiar la cantidad de defunciones.
