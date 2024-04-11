@@ -14,5 +14,10 @@ Con esta nueva tabla se pudo realizar todo de mejor forma hasta el momento de gr
 Al observar la tabla se muestra un peak de casos entre enero del 2022 y mayo de 2022, el cuál fué de casi 40000 casos.
 Con el peak encontrado se busca información acerca de los casos de el año 2022 y se puede observar concoradancia.
 Luego de trabajar con los casos confirmados se procede a estudiar la cantidad de defunciones.
+
+<img src=output.png>
+<img src=output2.png>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/COVID-19-Chile-log.svg/langes-500px-COVID-19-Chile-log.svg.png>.
+
 Al observar esta gráfica se muestra un peak cercano a las mismas fechas que para los casos nuevos, el cuál fué cercano a las 12000 defunciones. 
 Luego de hacer una comparación entre las gráficas creadas y con las encontradas en internet se puede observar que los lapsos de tiempo y el comportamiento de las gráficas concuerdan pero no así sus valores.
