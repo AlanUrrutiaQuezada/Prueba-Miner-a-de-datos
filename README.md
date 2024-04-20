@@ -21,3 +21,9 @@ Luego de trabajar con los casos confirmados se procede a estudiar la cantidad de
 
 Al observar esta gráfica se muestra un peak cercano a las mismas fechas que para los casos nuevos, el cuál fué cercano a las 12000 defunciones. 
 Luego de hacer una comparación entre las gráficas creadas y con las encontradas en internet se puede observar que los lapsos de tiempo y el comportamiento de las gráficas concuerdan pero no así sus valores.
+luego de observar el comportamiento de los casos de infectados de covid-19 se observan sus repercuciones tanto en el area laboral como en el de la educación.
+
+<img src=output3.png>
+<img src=output4.png>
+
+Como se puede observar en las gráficas las repercuciones en el ámbito laboral se mantuvieron en el "cierre" de las instituciones y esto debido mayormente en la implementación del trabajo remoto para los trabajadores, no asi como el caso de las instituciones de educación que buscaron el regreso de las clases presenciales antes que las clases online. 
